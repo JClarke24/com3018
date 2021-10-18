@@ -1,5 +1,7 @@
 # README.md
 
+The aim of the project is to investigate whether there is a correlation between unemployment and arrest within different ethnicities. See the project report for more information on the project description and its implementation.
+
 In order to run our R script, you will need to download the following libraries:
 Library from CRAN   Version
 pacman              0.5.1
